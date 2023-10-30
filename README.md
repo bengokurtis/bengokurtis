@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Development | CloudSecOps | Cybersecurity </h3>
 
 
-- 👨‍💻 All of my projects are available at [github.com/stevekaranja](github.com/stevekaranja)
+- 👨‍💻 All of my projects are available at [github.com/bengokurtis](github.com/bengokurtis)
 
 - 🌱 I’m currently learning JAVA for my backend skills
 
