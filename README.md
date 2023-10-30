@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @bengokurtis
-- 👀 I’m interested in cybersecurity and software development
-- 🌱 I’m currently learning React Js for my MERN Stack skills
-- 💞️ I’m looking to collaborate on pen testing, bug bounty projects & Open-source projects 
-- 📫 How to reach me via email @kurtisbengo@gmail.com
-
 <h1 align="center">Hi, I’m Bengo Kurtis</h1>
 <h3 align="center">Mobile Development | CloudSecOps | Cybersecurity </h3>
 
@@ -18,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stevekaranja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevekaranja" height="30" width="40" /></a>
-<a href="https://kaggle.com/stevekaranja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="stevekaranja" height="30" width="40" /></a>
-<a href="https://medium.com/@stevekaranja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stevekaranja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kurtisbengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kurtisbengo" height="30" width="40" /></a>
+<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kurtisbengo" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
