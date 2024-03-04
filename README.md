@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I’m Bengo Kurtis</h1>
-<h3 align="center">Mobile Development (Flutter) | Backend Develeopment(Java Spring Boot) | Cybersecurity </h3>
+<h3 align="center">Mobile Development (Flutter & Kotlin) | Backend Develeopment(Java Spring Boot) | DevSecOps</h3>
 
 
 - 👨‍💻 All of my projects are available at [github.com/bengokurtis](github.com/bengokurtis)
-
-- 🌱 I’m currently learning JAVA for my backend skills
 
 - 📫 How to reach me via email @kurtisbengo@gmail.com
 
